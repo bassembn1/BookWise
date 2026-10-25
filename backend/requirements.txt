@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+scikit-learn
+fastapi
+uvicorn[standard]
+pymongo
+pwdlib[argon2]
+easyocr
+Pillow
+python-multipart
